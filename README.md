@@ -25,4 +25,5 @@ https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVl
 ## Área de trabalho
 ▸ Visual Studio Code<br>
 ▸ Pacote extensões Angular: https://marketplace.visualstudio.com/...<br>
+▸ Startar projeto pelo terminal:<b> ng serve</b><br>
 ▸ Documentação Angular: https://angular.io<br>
